@@ -1,0 +1,30 @@
+=================================================================================
+                          Welcome to the Java Field game!                        
+=================================================================================
+
+The objective of the game is to destroy as many hearts as possible before
+your opponent destroys yours. You will take turns attacking each other's
+hearts until one of you runs out of hearts. You can also use boosts to
+increase your attack power or decrease your opponent's attack power.
+
+=================================================================================
+
+                                   How to play:                                  
+
+You must set a path from one end of the field to the other. You can only
+move up, down, left, or right. You cannot move diagonally.
+You can choose any tile on the field, but only once per turn.
+You can capture a tile by moving onto it. You can also sabotage a tile
+by moving onto it. You can only sabotage a tile that has already been
+captured by your opponent.
+
+Some squares on the grid have boosts!
+On each grid square, you might see something that looks like this:
+    [   0,   0,  2000 ] 
+The first number is the attack boost, the second number is the defense boost,
+and the third number is the coin boost. You can use boosts to increase your
+attack power or your defense, or to gain some more coins!
+
+ Let's get started!
+
+=================================================================================

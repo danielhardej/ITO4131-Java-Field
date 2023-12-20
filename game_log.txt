@@ -1,0 +1,24 @@
+Game Start
+Players using a 6x6 grid
+Starting stats:Name: Dan | Captured: 0 | Damage: 5 | Defence: 7 | Coins: 3000 | Hearts:  ♥  ♥  ♥  | Squares captured:  | Has complete path: false
+Name: Computer | Captured: 0 | Damage: 7 | Defence: 5 | Coins: 10000 | Hearts:  ♥  ♥  ♥  | Squares captured:  | Has complete path: false
+Turn: 1
+Dan attempts to capture a grid spot.
+Dan is attempting to capture the tile at (4, 3)!
+Dan has captured the tile at (4, 3)!
+Computer attempts to capture a grid spot.
+Computer is attempting to capture the tile at (3, 1)!
+Computer has captured the tile at (3, 1)!
+Name: Dan | Captured: 1 | Damage: 5 | Defence: 7 | Coins: 4000 | Hearts:  ♥  ♥  ♥  | Squares captured: [4, 3]  | Has complete path: false
+Name: Computer | Captured: 1 | Damage: 7 | Defence: 5 | Coins: 10000 | Hearts:  ♥  ♥  ♥  | Squares captured: [3, 1]  | Has complete path: false
+Turn: 2
+Dan attempts to sabotage the opponent.
+Dan has chosen to sabotage an opponent's grid square.
+Dan is attempting to capture the tile at (3, 1)!
+Dan has captured the tile at (3, 1)!
+Cost of sabotage: 2441 coins.
+Computer attempts to strike the opponent's heart.
+Computer's strike failed - does not have a complete path across the grid.
+Name: Dan | Captured: 2 | Damage: 5 | Defence: 7 | Coins: 1559 | Hearts:  ♥  ♥  ♥  | Squares captured: [4, 3] [3, 1]  | Has complete path: false
+Name: Computer | Captured: 1 | Damage: 7 | Defence: 5 | Coins: 10000 | Hearts:  ♥  ♥  ♥  | Squares captured: [3, 1]  | Has complete path: false
+Turn: 3
